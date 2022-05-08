@@ -4,3 +4,10 @@ Electron applications are ubiquitous, we use them every day. When you are listen
 
 
 ## Demo's
+
+  - Demo 1: https://youtu.be/63TA4qspUjI
+  - Demo 2: https://youtu.be/xiP43Gyuaz0
+  - Demo 3: https://youtu.be/d6xiC-bcxvA
+  - Demo 4: https://youtu.be/oqIQ0BC2ltA
+  - Demo 5: https://youtu.be/D8vSWmpmQIs
+  - Demo 6: https://youtu.be/WezgJZBIq_4
